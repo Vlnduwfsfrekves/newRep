@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknewRep=self.webpackChunknewRep||[]).push([[681],{681:function(e,n,i){i.r(n);var r=i(184);n.default=function(){return(0,r.jsx)("div",{children:(0,r.jsx)("h3",{children:"We don't have any reviews for this movie"})})}}}]);
+//# sourceMappingURL=681.29ce4ea5.chunk.js.map
